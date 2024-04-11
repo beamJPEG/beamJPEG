@@ -1,6 +1,3 @@
-### hey
+### hello
 
-i'm here 👍✌
-
-
-yeah 😎
+i make bytebeat stuff, also known as JHasAnUbuntuTerminal. i make stuff lmao
